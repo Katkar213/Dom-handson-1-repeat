@@ -1,0 +1,22 @@
+body{
+    background: linear-gradient(to right,lightgrey,orange);
+}
+h2{
+    display: inline-block;
+}
+.div{
+    display: flex;
+    width:300px;
+  
+    height: auto;
+    justify-content:space-between ;
+
+}
+.div1{
+    height:100px;
+    margin: 10px;
+    width:100px;
+    background-color:aqua;
+    border-radius: 10px;
+
+}
